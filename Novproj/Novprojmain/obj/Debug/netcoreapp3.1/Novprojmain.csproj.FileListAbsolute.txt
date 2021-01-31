@@ -1,0 +1,13 @@
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\obj\Debug\netcoreapp3.1\Novprojmain.csprojAssemblyReference.cache
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\obj\Debug\netcoreapp3.1\Novprojmain.AssemblyInfoInputs.cache
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\obj\Debug\netcoreapp3.1\Novprojmain.AssemblyInfo.cs
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\obj\Debug\netcoreapp3.1\Novprojmain.csproj.CoreCompileInputs.cache
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\bin\Debug\netcoreapp3.1\Novprojmain.exe
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\bin\Debug\netcoreapp3.1\Novprojmain.deps.json
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\bin\Debug\netcoreapp3.1\Novprojmain.runtimeconfig.json
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\bin\Debug\netcoreapp3.1\Novprojmain.runtimeconfig.dev.json
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\bin\Debug\netcoreapp3.1\Novprojmain.dll
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\bin\Debug\netcoreapp3.1\Novprojmain.pdb
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\obj\Debug\netcoreapp3.1\Novprojmain.dll
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\obj\Debug\netcoreapp3.1\Novprojmain.pdb
+C:\Users\andreas.hedbjorn\Desktop\Novproj\Novprojmain\obj\Debug\netcoreapp3.1\Novprojmain.genruntimeconfig.cache
